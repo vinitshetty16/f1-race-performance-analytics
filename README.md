@@ -36,7 +36,7 @@ static snapshot covering 1950–2024.
 [View live Power BI dashboard →](https://app.powerbi.com/groups/me/reports/bf02f62f-591b-4ec6-8e4f-2c19e9a220a1/b98549e829095d4a8ee4?ctid=d08d19e7-7313-4d83-80f9-4708ac5d544d&experience=power-bi&bookmarkGuid=a3a6edc9-746a-422e-9f0f-e3c9701716b9)
 
 ## Presentation
-Presentation Deck | [Download PDF ↓](presentation/F1_Analytics_Presentation.pdf) 
+[Download PDF ↓](presentation/F1_Analytics_Presentation.pdf) 
 
 ## Documentation
 [View Notion Docs →](https://www.notion.so/F1-Analytics-Project-327cd3d3755e803784b9fa14aee1429a)
