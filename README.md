@@ -38,6 +38,10 @@ static snapshot covering 1950–2024.
 ## Presentation
 Presentation Deck | [Download PDF ↓](presentation/F1_Analytics_Presentation.pdf) 
 
+## Documentation
+[View Notion Docs →](https://www.notion.so/F1-Analytics-Project-327cd3d3755e803784b9fa14aee1429a)
+
+
 ## Project Structure
 - `/sql` — All SQL scripts for setup, table creation, and analytics views
 - `/powerbi` — Power BI Desktop file (.pbix)
